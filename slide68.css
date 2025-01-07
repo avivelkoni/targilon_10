@@ -1,0 +1,28 @@
+button {
+    background-color: #00FF00;
+    color: #FF0000;
+    font-size: 18pt;
+    margin: 10px;
+}
+
+#danger-btn {
+    background-color: #0000FF;
+}
+#special-btn {
+    background-color: #FF00FF;
+    color: black;
+}
+
+#cool-btn {
+    font-size: 80pt;
+    color: white;
+}
+
+.orange-bg {
+    background-color: #FFA500;
+    color:#0000FF;
+}
+
+.green-bg {
+    background-color: #000000;
+}
